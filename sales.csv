@@ -1,0 +1,6 @@
+order_id,order_date,state,category,amount
+1,2025-01-01,TX,Electronics,1200
+2,2025-01-02,CA,Furniture,850
+3,2025-01-03,TX,Electronics,600
+4,2025-01-04,NY,Office Supplies,150
+5,2025-01-05,CA,Electronics,
